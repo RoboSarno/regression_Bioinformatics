@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run regression_Bioinformatics.py
+web: streamlit run regression_Bioinformatics.py
